@@ -4,7 +4,7 @@
 
 @media (max-width: 485px) {
     main {
-        padding: 16px;
+        padding: 12px;
     }
 }
 
@@ -12,7 +12,7 @@
     main {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 16px;
+        gap: 12px;
     }
 }
 
@@ -20,7 +20,7 @@
     main {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        gap: 16px;
+        gap: 12px;
     }
 }
 
@@ -72,7 +72,7 @@ header .tk-photography {
 form {
     background-color: white;
     color: #007d7b;
-    padding: 16px; 
+    padding: 16px;
     max-width: 600px;
     width: 100%;
     text-align: left;
@@ -80,9 +80,9 @@ form {
 
 form button {
     display: inline-block;
-    background-color: #ffffff; 
+    background-color: #ffffff;
     color: #007d7b;
-    padding: 12px 24px; 
+    padding: 12px 24px;
     border-radius: 4px;
     cursor: pointer;
     font-size: 16px;
@@ -120,15 +120,15 @@ article img {
 .caption {
     position: absolute;
     width: 100%;
-    color: white; 
-    padding: 8px; 
-    margin: 0; 
+    color: white;
+    padding: 8px;
+    margin: 0;
     bottom: 0;
 }
 
 .caption.above {
     top: 0;
-    bottom: auto; 
+    bottom: auto;
 }
 
 footer {
@@ -138,5 +138,5 @@ footer {
 
 footer p {
     margin: 0;
-    font-size: 14px; 
+    font-size: 14px;
 }
