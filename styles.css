@@ -115,6 +115,10 @@ nav ul li {
     background-color: white;
 }
 
+#gallery h2{
+    margin-bottom:12px;
+}
+
 @media (max-width: 600px) {
     /* Small view: 1 column */
     #gallery {
