@@ -38,6 +38,9 @@
     }
 }
 
+header {
+    color: #007d7b;
+}
 p {
     font-size: 1.25em;
 }
